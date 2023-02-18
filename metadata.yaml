@@ -1,0 +1,32 @@
+_repo: The-plurality-of-the-human-race_70009
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Beavan, Hugh J. C.
+    gutenberg_agent_id: '55542'
+    url: http://www.gutenberg.org/2009/agents/55542
+creator:
+  author:
+    agent_name: Pouchet, Georges
+    gutenberg_agent_id: '55541'
+    url: http://www.gutenberg.org/2009/agents/55541
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70009'
+language: en
+pgterms:marc904: https://archive.org/details/pluralityofhuman00pouc
+pgterms:marc905: 20201231102427pouchet
+pgterms:marc906: '1864'
+pgterms:marc907: GB
+production_note: deaurider, Krista Zaleski, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bLongman Green Longman and Roberts, $c1864.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The plurality of the human race
+url: http://www.gutenberg.org/ebooks/70009
