@@ -5,12 +5,17 @@ contributor:
     agent_name: Beavan, Hugh J. C.
     gutenberg_agent_id: '55542'
     url: http://www.gutenberg.org/2009/agents/55542
+covers:
+- cover_type: archival
+  image_path: 70009-h/images/cover.jpg
 creator:
   author:
     agent_name: Pouchet, Georges
     gutenberg_agent_id: '55541'
     url: http://www.gutenberg.org/2009/agents/55541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70009#The-plurality-of-the-human-race
 gutenberg_issued: '2023-02-10'
 identifiers:
   gutenberg: '70009'
